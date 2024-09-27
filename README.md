@@ -1,4 +1,4 @@
-# Gestion des imprévus dans un sprint Agile
+<h1 align="center">Gestion des imprévus dans un sprint Agile</h1>
 
 En tant que Product Owner chez Purple Squirrel, j'ai été confrontée à une série de défis critiques lors d'un sprint de 10 jours pour notre outil de gestion des ressources humaines. Ce projet m'a permis de démontrer ma capacité à gérer des situations complexes et à maintenir l'efficacité d'une équipe Agile face à des imprévus majeurs.
 
